@@ -1,6 +1,8 @@
 # 💫 About Me:
 👨‍💻 Versatile Computer Science undergraduate with hands-on experience in software development, AI model pipelines, and NLP-powered search assistants. <br>🤖 Built enterprise-level UI at Celebal Technologies and a GenAI intrusion detection pipeline for metaverse at MNIT. <br>🚀 Passionate about building scalable tech that thinks, acts, and delivers measurable impact.
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tanishraj7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanishrajss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishrajsingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishraj.contact@gmail.com) 
@@ -12,8 +14,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=tanishraj7&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishraj7&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tanishraj7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
